@@ -48,18 +48,27 @@ namespace Task_IF_Libreria
             //Gestore.StampaUtene();
 
 
-            Console.WriteLine("Ao er dimme er titolo");
-            string ? inTitolo = Console.ReadLine();
+            //Console.WriteLine("Ao er dimme er titolo");
+            //string? inTitolo = Console.ReadLine();
 
-            Console.WriteLine("Ao er dimme er Anno Pubblicazione");
-            int inAnPub = Convert.ToInt32( Console.ReadLine());
+            //Console.WriteLine("Ao er dimme er Anno Pubblicazione");
+            //int inAnPub = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Ao er dimme er Disponibilità");
-            bool inStato=Convert.ToBoolean( Console.ReadLine());
+            //Console.WriteLine("Ao er dimme er Disponibilità");
+            //bool inStato = Convert.ToBoolean(Console.ReadLine());
 
 
-            Gestore.InsertLibro(inTitolo, inAnPub, inStato);   
+            //Gestore.InsertLibro(inTitolo, inAnPub, inStato);
 
+
+            //stampa 
+
+            //Console.WriteLine("Cerca libro per codice");
+            //string ? codLibro = Console.ReadLine();
+            //Gestore.Trovalibro(codLibro);
+
+
+            Gestore.StampaLibDispo();
 
 
         }

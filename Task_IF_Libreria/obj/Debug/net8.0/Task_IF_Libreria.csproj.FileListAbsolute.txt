@@ -128,3 +128,4 @@ C:\Users\Utente\source\repos\Task_IF_Libreria\Task_IF_Libreria\obj\Debug\net8.0\
 C:\Users\Utente\source\repos\Task_IF_Libreria\Task_IF_Libreria\obj\Debug\net8.0\Task_IF_Libreria.pdb
 C:\Users\Utente\source\repos\Task_IF_Libreria\Task_IF_Libreria\obj\Debug\net8.0\Task_IF_Libreria.genruntimeconfig.cache
 C:\Users\Utente\source\repos\Task_IF_Libreria\Task_IF_Libreria\obj\Debug\net8.0\ref\Task_IF_Libreria.dll
+C:\Users\Utente\source\repos\Task_IF_Libreria\Task_IF_Libreria\obj\Debug\net8.0\Task_IF_Libreria.sourcelink.json

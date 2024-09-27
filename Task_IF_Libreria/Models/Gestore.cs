@@ -103,5 +103,38 @@ namespace Task_IF_Libreria.Models
 
 
         }
+
+        public static void  Trovalibro (string varCodLibro)
+        {
+           
+            using (var ctx = new TaskLibreriaContext())
+            {
+
+                Libro? libe = ctx.Libros.FirstOrDefault(l => l.CodLibro.Equals(varCodLibro));
+                Console.Write(libe);
+
+
+            }
+        }
+
+
+        public static void StampaLibDispo()
+        {
+            using (var ctx = new TaskLibreriaContext())
+            {
+                var elenLibri= ctx.Libros.ToList();
+                var risultato = from lib in elenLibri
+                                where lib.StatoDis == true
+                                select lib;
+
+                foreach (var lib in risultato)
+                {
+                    Console.WriteLine(lib);
+                    
+                }
+
+            }
+        }
+
     }
 }
