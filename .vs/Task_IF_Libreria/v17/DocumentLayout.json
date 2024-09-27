@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\models\\utente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\models\\tasklibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\models\\tasklibreriacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\models\\prestito.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\models\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\models\\gestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|c:\\users\\utente\\source\\repos\\task_if_libreria\\task_if_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7D3ACAF-AE45-436D-8448-2FB8A25F69A6}|Task_IF_Libreria\\Task_IF_Libreria.csproj|solutionrelative:task_if_libreria\\models\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Gestore.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Gestore.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Models\\Gestore.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Gestore.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Models\\Gestore.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAwwF0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T10:23:19.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TaskLibreriaContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\TaskLibreriaContext.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Models\\TaskLibreriaContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\TaskLibreriaContext.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Models\\TaskLibreriaContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAtwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:50:59.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Program.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Program.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T08:34:25.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestito.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Prestito.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Models\\Prestito.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Prestito.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Models\\Prestito.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwBgAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:29:15.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Libro.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Models\\Libro.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Libro.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Models\\Libro.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:29:12.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Utente.cs",
+              "RelativeDocumentMoniker": "Task_IF_Libreria\\Models\\Utente.cs",
+              "ToolTip": "C:\\Users\\Utente\\source\\repos\\Task_IF_Libreria\\Task_IF_Libreria\\Models\\Utente.cs",
+              "RelativeToolTip": "Task_IF_Libreria\\Models\\Utente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T09:29:22.357Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
